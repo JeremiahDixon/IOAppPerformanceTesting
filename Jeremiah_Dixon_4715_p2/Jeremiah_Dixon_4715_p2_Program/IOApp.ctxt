@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=IOApp
+comment1.params=
+comment1.target=void\ readAndWritefile()
+comment2.params=
+comment2.target=long\ getCpuTime()
+comment2.text=Get\ CPU\ time\ in\ nanoseconds.
+comment3.params=
+comment3.target=long\ getUserTime()
+comment3.text=Get\ user\ time\ in\ nanoseconds.
+comment4.params=
+comment4.target=long\ getSystemTime()
+comment4.text=Get\ system\ time\ in\ nanoseconds.
+comment5.params=
+comment5.target=void\ printTimes()
+numComments=6
